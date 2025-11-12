@@ -1,0 +1,8 @@
+{
+  "name": "medi-connect with clinician module",
+  "description": "A modern web application for patients to connect with doctors, featuring secure Face ID authentication for login and registration. Book and manage your appointments seamlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

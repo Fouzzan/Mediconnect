@@ -1,0 +1,9 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+deepface
+opencv-python
+pillow
+numpy
+psycopg2-binary
